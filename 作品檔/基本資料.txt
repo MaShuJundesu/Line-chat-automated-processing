@@ -1,0 +1,5 @@
+spreadsheet_url=google試算表的連結
+LineBotApi=這個要到line developers找
+json_file_name=line.json
+lineWebhookHandler=在 line developers 中的basic settings 選項中
+csvFile=clinetcsv.csv
